@@ -3,7 +3,7 @@
 
 Project Description : 
 
-This project covers the implementation of self-regulating temperature IOT system which is build using Arduino microcontroller, Cooling Fan and we are connecting to our server on the Arduino cloud using C language. 
+This project covers the implementation of self-regulating temperature IOT system which is build using Arduino microcontroller, Cooling Fan and we are connecting to our server on the Arduino cloud using C++ language. 
 
 The objective of the project is to understand on 
 
