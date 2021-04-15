@@ -1,12 +1,18 @@
-:Author: leeassam
-:Email:
-:Date: 14/07/2019
-:Revision: version#
+
 :License: Public Domain
 
-= Project: {Project}
+Project Description : 
 
-Describe your project
+This project covers the implementation of self-regulating temperature IOT system which is build using Arduino microcontroller, Cooling Fan and we are connecting to our server on the Arduino cloud using C language. 
+
+The objective of the project is to understand on 
+
+1. How to control a fan using a transistor as a switch
+2. Creating a dashboard to set desired temperature ranges and provide manual override controls.
+3. Implementing a feedback loop using the cloud to have the fan self-regulate to control temperature.
+
+
+
 
 == Step 1: Installation
 Please describe the steps to install this project.
